@@ -1,0 +1,166 @@
+[
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.EventController",
+    "Method": "GetAllEvents",
+    "RelativePath": "api/Event",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.EventController",
+    "Method": "CreateEvent",
+    "RelativePath": "api/Event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ev",
+        "Type": "WebApi_Assessment_Project_Final.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.EventController",
+    "Method": "GetEventById",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.EventController",
+    "Method": "UpdateEvent",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ev",
+        "Type": "WebApi_Assessment_Project_Final.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.EventController",
+    "Method": "DeleteEvent",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.ParticipantController",
+    "Method": "RegisterParticipant",
+    "RelativePath": "api/Participant/session/{sessionId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sessionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "participant",
+        "Type": "WebApi_Assessment_Project_Final.Models.Participant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.ParticipantController",
+    "Method": "GetParticipantsBySession",
+    "RelativePath": "api/Participant/session/{sessionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sessionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.SessionController",
+    "Method": "CreateSession",
+    "RelativePath": "api/Session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "session",
+        "Type": "WebApi_Assessment_Project_Final.Models.Session",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.SessionController",
+    "Method": "GetSessionsByEvent",
+    "RelativePath": "api/Session/event/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Assessment_Project_Final.Controllers.TokenController",
+    "Method": "Login",
+    "RelativePath": "api/Token/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebApi_Assessment_Project_Final.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

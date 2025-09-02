@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\interfaces\\ieventinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\interfaces\\ieventinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\interfaces\\iparticipantinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\interfaces\\iparticipantinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\interfaces\\isessioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\interfaces\\isessioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\services\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|c:\\users\\30anu\\source\\repos\\webapi_assessment_project_final\\webapi_assessment_project_final\\webapi_assessment_project_final\\services\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D2985-9EF0-4F5B-84CD-AFD276C9729A}|WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final.csproj|solutionrelative:webapi_assessment_project_final\\services\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\EventController.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:50:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:00:01.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\appsettings.json",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\appsettings.json",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T09:22:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventInterface.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IEventInterface.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Interfaces\\IEventInterface.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IEventInterface.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Interfaces\\IEventInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:51:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:51:22.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\TokenService.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:59:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Program.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:23:37.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IParticipantInterface.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IParticipantInterface.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Interfaces\\IParticipantInterface.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IParticipantInterface.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Interfaces\\IParticipantInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:09:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Participant.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:17:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IToken.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Interfaces\\IToken.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\IToken.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Interfaces\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:07:28.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Event.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:17:15.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\IEventService.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Services\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:57:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Models\\Session.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Models\\Session.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:17:36.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:24:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISessionInterface.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\ISessionInterface.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Interfaces\\ISessionInterface.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Interfaces\\ISessionInterface.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Interfaces\\ISessionInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:43.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\ISessionService.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Services\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\ISessionService.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Services\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "WebApi_Assessment_Project_Final\\Services\\IParticipantService.cs",
+              "ToolTip": "C:\\Users\\30anu\\source\\repos\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\WebApi_Assessment_Project_Final\\Services\\IParticipantService.cs",
+              "RelativeToolTip": "WebApi_Assessment_Project_Final\\Services\\IParticipantService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:59:12.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
